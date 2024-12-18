@@ -1,0 +1,24 @@
+
+.gridcontainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 300px 300px 300px;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+.black{
+    border: 10px solid white;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+.grey{
+    border: 10px solid white;
+    border-radius: 30px;
+    background-color: grey;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}

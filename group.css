@@ -1,0 +1,16 @@
+*{
+    .left content{
+        float: left;
+    }
+    .hero img{
+        float: right;
+    }
+    #btn{
+        color: black;
+        background-color: blue;
+    }
+    .clk{
+        color: white;
+        background-color: black;
+    }
+}
